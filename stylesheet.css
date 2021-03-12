@@ -1,0 +1,12 @@
+/* stylesheet for React Pages */
+
+body {
+    background-color: cadetblue;
+    margin: 0px;
+}
+
+#main {
+    border-radius: 25px;
+    margin: 0 20%;
+    padding: 5%;
+}
